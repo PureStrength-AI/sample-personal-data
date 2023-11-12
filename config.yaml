@@ -1,0 +1,67 @@
+email: thakker.madhav@gmail.com
+password: 
+
+disableAntiLock: True
+
+remote: True
+
+experienceLevel:
+ internship: False
+ entry: True
+ associate: True
+ mid-senior level: True
+ director: False
+ executive: False
+
+jobTypes:
+ full-time: True
+ contract: True
+ part-time: True
+ temporary: True
+ internship: False
+ other: False
+ volunteer: False
+
+date:
+ all time: True
+ month: False
+ week: False
+ 24 hours: False
+
+positions:
+ - Software Engineer
+ - Software Developer
+
+locations:
+ - India
+ - Germany
+ - New York, NY
+ - London, UK
+ - Remote
+
+distance: 100
+
+companyBlacklist:
+ #- company
+ #- company2
+
+titleBlacklist:
+ #- word1
+ #- word2
+
+posterBlacklist:
+ #- name1
+ #- name2
+
+# ------------ Additional parameters: personal info ---------------
+personalInfo:
+ First Name: Madhav
+ Last Name: Thakker
+ Phone Country Code: India (+91)
+ Mobile Phone Number: 9711223143
+ Street address: A57 Naya Bazar
+ City: Najafgarh                      # Include the state/province as well!
+ State: Delhi
+ Zip: 110043
+ Linkedin: https://www.linkedin.com/in/madhavthakker/
+ Website: https://github.com/maddythakker          # github/website is interchangeable here
