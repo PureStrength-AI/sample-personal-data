@@ -1,9 +1,11 @@
 # LinkedIn Easy Apply Automation Application
 
+## Your Personal Data directory should have all these 7 files
+
 This application streamlines the process of applying for jobs on LinkedIn by automating the submission of applications based on user-defined criteria and personal data.
 Key Files to Edit Before Running the Application
 
-## config.yaml
+## 1. config.yaml
 
 This YAML file is the primary configuration file for the application. It contains important settings that the application uses to run correctly. You should edit this file to set up:
 
@@ -11,7 +13,7 @@ This YAML file is the primary configuration file for the application. It contain
     Application Settings: Preferences for job application submissions, like delay times between applications.
     Other Configurations: Additional parameters that control the application's behavior.
 
-## job_filters.md
+## 2. job_filters.md
 
 The job_filters.md file allows you to define the criteria for job searches. In this file, you can specify:
 
@@ -20,7 +22,7 @@ The job_filters.md file allows you to define the criteria for job searches. In t
     Job Types: Types of jobs you are interested in (full-time, part-time, etc.).
     Other Filters: Any additional filters LinkedIn offers, like industry or experience level.
 
-## personal_data.md
+## 3. personal_data.md
 
 This markdown file contains your personal data that will be used in job applications. Ensure you fill out:
 
@@ -30,9 +32,15 @@ This markdown file contains your personal data that will be used in job applicat
 
 Other Files
 
-sample-cover-letter.pdf and plain_text_cover_letter.md: These files contain your cover letter. The PDF is for visual formatting, and the markdown file is a plain text version.
+4. sample-cover-letter.pdf 
+5. plain_text_cover_letter.md
 
-sample-resume.pdf and plain_text_resume.md: Similar to the cover letter files, these contain your resume. Ensure both the PDF and markdown versions are up to date.
+These files contain your cover letter. The PDF is for visual formatting, and the markdown file is a plain text version.
+
+6. sample-resume.pdf
+7. plain_text_resume.md
+
+Similar to the cover letter files, these contain your resume. Ensure both the PDF and markdown versions are up to date.
 
 
 ## How to Use
